@@ -47,7 +47,7 @@ const apps = [
     action: "MSEDGE",
   },
   {
-    name: "Buy me a coffee",
+    name: "Buy me a coffeexxx",
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
